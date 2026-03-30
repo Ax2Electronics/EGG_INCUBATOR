@@ -1333,6 +1333,34 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=12V|NetColor=$00000098
+Net2=NetName=3V3_MCU_SUPPLY_VIN|NetColor=clRed
+Net3=NetName=3V3_MCU_SUPPLY_VOUT|NetColor=clLime
+Net4=NetName=3V3_SYS_SUPPLY_VOUT|NetColor=$000099FF
+Net5=NetName=3V3_uC|NetColor=clRed
+Net6=NetName=3V3-MCU|NetColor=clLime
+Net7=NetName=3V3-SYS|NetColor=$000099FF
+Net8=NetName=5V0_ISOLATED_VOUT|NetColor=clYellow
+Net9=NetName=5V0_SYS_SUPPLY_EN|NetColor=$00000098
+Net10=NetName=5V-ISO|NetColor=clYellow
+Net11=NetName=5V-SYS|NetColor=clRed
+Net12=NetName=GND|NetColor=$00EB9E6D
+Net13=NetName=NetC6002_2|NetColor=clRed
+Net14=NetName=NetC6005_2|NetColor=clYellow
+Net15=NetName=NetR3004_2|NetColor=clLime
+Net16=NetName=NetR4007_2|NetColor=clRed
+Net17=NetName=NetR5000_1|NetColor=$00000098
+Net18=NetName=NetR5001_2|NetColor=clRed
+Net19=NetName=NetR5006_1|NetColor=$00000098
+Net20=NetName=NetR7000_1|NetColor=clRed
+Net21=NetName=NetR7001_1|NetColor=$000099FF
+Net22=NetName=NetR7006_2|NetColor=clLime
+Net23=NetName=NetR8000_1|NetColor=clRed
+Net24=NetName=NetR8001_2|NetColor=clLime
+Net25=NetName=R_SENSE_N|NetColor=$00000098
+Net26=NetName=VCCX|NetColor=clRed
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
