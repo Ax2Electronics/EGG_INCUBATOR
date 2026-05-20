@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+\02-PCB ASSY\02-01348-R2_PNP\02-01348-R2_PNP.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14-04-25
+Time:       14:23
+Revision:   Not in VersionControl
+Variant:    Default Assembly
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"LABEL2","08-10015","BottomLayer","08-10015","-453.6700","-415.5700","180",""
+"PAD2","Rubber Pad Cylindrical Taper","BottomLayer","BUMP_BUMPERSPECIALTIES_BS06GR10X20RP_CYLINDRICAL_BLACK_D12.7H6.35","-453.6700","-415.5700","180",""
+"PAD1","Rubber Pad Cylindrical Taper","BottomLayer","BUMP_BUMPERSPECIALTIES_BS06GR10X20RP_CYLINDRICAL_BLACK_D12.7H6.35","-453.6700","-415.5700","180",""
+"SENSE1","Liquid_Sensor","TopLayer","Con_20x20x0.5x0.5","24.7500","15.0000","0",""
+"SENSE2","Liquid_Sensor","TopLayer","Cap_20x20x1x0.5","24.7500","45.0000","0",""
+"J2","Header 1x2","TopLayer","HDR_M_2.54_1X2_U_TH-PIP_RA_WCON_1125-1102S0R140CR01","4.0200","45.0000","270",""
+"J1","Header 1x2","TopLayer","HDR_M_2.54_1X2_U_TH-PIP_RA_WCON_1125-1102S0R140CR01","4.0200","15.0000","270",""
+"LABEL1","08-10015","BottomLayer","08-10015","-453.6700","-415.5700","180",""

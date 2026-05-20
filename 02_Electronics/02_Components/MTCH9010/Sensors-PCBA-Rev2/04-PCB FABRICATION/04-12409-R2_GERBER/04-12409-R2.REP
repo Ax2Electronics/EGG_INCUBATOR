@@ -1,0 +1,282 @@
+*************************************************************
+FileName = 04-12409-R2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : 04-12409-R2.GD1
+
+    Adding Layer      : TITLE (M16)
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 04-12409-R2.GG1
+
+    Adding Layer      : TITLE (M16)
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 04-12409-R2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : TITLE (M16)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 04-12409-R2.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : TITLE (M16)
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 04-12409-R2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : TITLE (M16)
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 04-12409-R2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : TITLE (M16)
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 04-12409-R2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : TITLE (M16)
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 04-12409-R2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : TITLE (M16)
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 04-12409-R2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : TITLE (M16)
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : BOARD (M2)
+      File : 04-12409-R2.GM2
+
+    Adding Layer      : BOARD (M2)
+
+    Adding Layer      : TITLE (M16)
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : V-Cut (M9)
+      File : 04-12409-R2.GM9
+
+    Adding Layer      : V-Cut (M9)
+
+    Adding Layer      : TITLE (M16)
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 04-12409-R2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : TITLE (M16)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D26
+*************************************************************
+

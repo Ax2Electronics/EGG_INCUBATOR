@@ -1,0 +1,91 @@
+Altium Designer Pick and Place Locations
+\02-PCB ASSY\02-01228-R5_PNP\02-01228-R5_PNP.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       14-04-25
+Time:       14:15
+Revision:   Not in VersionControl
+Variant:    Default Assembly
+Units used: mm
+
+Designator Comment                                             Layer       Footprint                                           Center-X(mm) Center-Y(mm) Rotation Description      
+R129       Resistor                                            BottomLayer RES_C_0402                                          13.8418      41.5000      0        Resistor         
+R128       Resistor                                            BottomLayer RES_C_0402                                          13.8418      40.5000      0        Resistor         
+R127       Resistor                                            BottomLayer RES_C_0402                                          13.8415      39.5002      0        Resistor         
+R126       Resistor                                            BottomLayer RES_C_0402                                          36.5559      8.0709       90       Resistor         
+R110       Resistor                                            BottomLayer RES_C_0402                                          30.0100      30.3330      90       Resistor         
+R125       Resistor                                            BottomLayer RES_C_0402                                          45.2311      26.4050      90       Resistor         
+R102       Resistor                                            BottomLayer RES_C_0402                                          47.1057      26.4050      270      Resistor         
+C103       "Capacitor NP"                                      BottomLayer CAP_C_0402                                          46.2497      26.4047      90       ""               
+JP200      "Jumper Mechanical"                                 TopLayer    Jumper_Mechanical                                   -453.6700    -415.5700    90       ""               
+JP100      "Jumper Mechanical"                                 TopLayer    Jumper_Mechanical                                   -453.6700    -415.5700    90       ""               
+U205       MIC94163_1.5MM_1MM                                  BottomLayer MIC94163_1.5MM_1MM                                  25.8250      7.5636       270      ""               
+R208       Resistor                                            BottomLayer RES_C_0402                                          25.0040      5.2500       90       Resistor         
+R124       Resistor                                            BottomLayer RES_C_0402                                          24.2824      9.3200       270      Resistor         
+J200       "CON USB2.0-C RCPT SMD RA KLS KLS1-5409"            TopLayer    CON_USB2.0-C_RCPT_SMD_RA_KLS_KLS1-5409              4.3643       12.4305      270      ""               
+SW105      "SWITCH SLIDE SMD SPDT SLW-88229-2-SMT-TR"          BottomLayer SW_SLIDE_SMD_SS_SLW-88229-2-SMT-TR                  12.8370      65.9000      180      ""               
+R122       Resistor                                            BottomLayer RES_C_0402                                          13.8524      60.1320      90       Resistor         
+R112       Resistor                                            TopLayer    RES_C_0805                                          45.2250      14.1067      180      Resistor         
+R111       Resistor                                            TopLayer    RES_C_0805                                          45.2250      16.0610      180      Resistor         
+R113       Resistor                                            TopLayer    RES_C_0805                                          45.4500      34.4500      90       Resistor         
+R107       Resistor                                            BottomLayer RES_C_0402                                          13.8418      43.8537      0        Resistor         
+R106       Resistor                                            BottomLayer RES_C_0402                                          13.8418      44.9851      0        Resistor         
+U202       "74LVC(H)1T45 SOT-23-6_SC-70-6_SOT-6_SOT-363_DSBGA" BottomLayer SOT-363                                             21.2000      9.2200       0        ""               
+J103       "Header 1x2"                                        TopLayer    HDR_F_2.54_1x2_TH-PIP_RA_WCON_2185-102RSNCYNR1      50.2000      45.0000      270      ""               
+U100       MTCH9010-VQFN20                                     TopLayer    VQFN-20_3X3_EP1.8x1.8_NO_VIAS                       45.0500      30.0000      180      ""               
+SW200      "SWITCH SLIDE SMD SPDT SLW-88229-2-SMT-TR"          BottomLayer SW_SLIDE_SMD_SS_SLW-88229-2-SMT-TR                  19.3090      4.0930       0        ""               
+SW103      "SWITCH SLIDE SMD SPDT SLW-88229-2-SMT-TR"          BottomLayer SW_SLIDE_SMD_SS_SLW-88229-2-SMT-TR                  24.2747      65.9000      180      ""               
+SW104      "SWITCH SLIDE SMD SP4T"                             BottomLayer SW_SLIDE_SMD_RA_SP4T_L-KLS7-MSS-1400SD-BR           40.3057      3.7135       0        ""               
+SW102      "SWITCH SLIDE SMD SPDT SLW-88229-2-SMT-TR"          BottomLayer SW_SLIDE_SMD_SS_SLW-88229-2-SMT-TR                  35.7123      65.9000      180      ""               
+SW101      "SWITCH SLIDE SMD SPDT SLW-88229-2-SMT-TR"          BottomLayer SW_SLIDE_SMD_SS_SLW-88229-2-SMT-TR                  47.1500      65.9000      180      ""               
+SHAFT100   PT10_SHAFT                                          BottomLayer PT10_Shaft_Mechanical                               -453.6700    -415.5700    180      ""               
+R123       Resistor                                            BottomLayer RES_C_0402                                          40.7578      8.0709       90       Resistor         
+R116       Resistor                                            BottomLayer RES_C_0402                                          25.2900      60.1320      90       Resistor         
+R121       Resistor                                            BottomLayer RES_C_0402                                          41.8502      8.0741       270      Resistor         
+R119       Resistor                                            BottomLayer RES_C_0402                                          42.9429      8.0710       270      Resistor         
+R114       Resistor                                            BottomLayer RES_C_0402                                          36.7274      60.1320      90       Resistor         
+R117       Resistor                                            BottomLayer RES_C_0402                                          44.0360      8.0709       90       Resistor         
+R115       Resistor                                            BottomLayer RES_C_0402                                          45.1287      8.0709       90       Resistor         
+R108       "Resistor Var"                                      BottomLayer RES_VAR_PIHER_PS-10V60_L10.9W10.3H5.7               30.0000      19.1033      180      "Resistor Var"   
+Q101       "Transistor MOS-N GSD"                              BottomLayer X1-DFN1006-3                                        51.7389      53.4789      270      "Transistor MOS" 
+Q100       "Transistor MOS-N GSD"                              BottomLayer X1-DFN1006-3                                        51.7461      58.5915      270      "Transistor MOS" 
+D201       LED_green                                           TopLayer    LED_0603_Green                                      4.9778       21.2264      0        LED              
+D101       LED_yellow                                          TopLayer    LED_DIA_597-6xxx_1206_RM                            56.3657      53.7875      180      LED              
+R105       Resistor                                            BottomLayer RES_C_0402                                          48.1350      60.1320      90       Resistor         
+R104       Resistor                                            BottomLayer RES_C_0402                                          50.6105      54.2723      270      Resistor         
+R103       Resistor                                            BottomLayer RES_C_0402                                          50.6178      59.3665      270      Resistor         
+U203       "MIC2008YML-TR VDFN-6"                              BottomLayer VDFN-6_2x2_EP0.8X1.40                               4.2038       19.1260      180      ""               
+Q200       "Transistor MOS-P GSD"                              BottomLayer LGA-3_GSD_0.7x0.6_CSD25501F3                        1.6214       14.7122      180      "Transistor MOS" 
+C204       "Capacitor NP"                                      BottomLayer CAP_C_0402                                          1.7735       19.5594      270      ""               
+C202       "Capacitor NP"                                      BottomLayer CAP_C_0603                                          4.3257       21.0825      0        ""               
+J100       "Header 1x7"                                        TopLayer    HDR_F_2.54_1x7_TH-PIP_RA_WCON_2185-107RSNCYNR1      9.8002       51.3500      90       ""               
+C200       "Capacitor NP"                                      BottomLayer CAP_C_0402                                          11.8250      14.7952      180      ""               
+U201       "MCP2221 QFN-16"                                    BottomLayer QFN-16_4X4_EP2.5X2.5                                11.3000      11.7700      180      ""               
+U204       "MCP1755 DFN-8"                                     BottomLayer DFN-8_2x3                                           11.5168      20.3106      270      ""               
+U200       "74LVC(H)1T45 SOT-23-6_SC-70-6_SOT-6_SOT-363_DSBGA" BottomLayer SOT-363                                             21.2000      12.2750      0        ""               
+C203       "Capacitor NP"                                      BottomLayer CAP_C_0603                                          14.2000      20.2856      90       ""               
+C201       "Capacitor NP"                                      BottomLayer CAP_C_0402                                          2.9000       14.1247      270      ""               
+C205       "Capacitor NP"                                      BottomLayer CAP_C_0402                                          6.5401       18.9825      180      ""               
+D200       LED_green                                           TopLayer    LED_0603_Green                                      4.9778       19.2264      0        LED              
+R202       Resistor                                            BottomLayer RES_C_0402                                          6.3113       10.2200      270      Resistor         
+R204       Resistor                                            BottomLayer RES_C_0402                                          11.6668      17.7500      180      Resistor         
+R200       Resistor                                            BottomLayer RES_C_0402                                          14.8000      11.4450      0        Resistor         
+R206       Resistor                                            BottomLayer RES_C_0402                                          3.3502       12.6834      0        Resistor         
+R207       Resistor                                            BottomLayer RES_C_0402                                          3.9375       14.1247      270      Resistor         
+C100       "Capacitor NP"                                      BottomLayer CAP_C_0402                                          44.3000      27.9100      90       ""               
+C101       "Capacitor NP"                                      BottomLayer CAP_C_0402                                          48.5750      31.4350      270      ""               
+C102       "Capacitor NP"                                      BottomLayer CAP_C_0402                                          48.5750      29.9850      180      ""               
+D100       LED_yellow                                          TopLayer    LED_DIA_597-6xxx_1206_RM                            56.3730      59.0000      180      LED              
+R201       Resistor                                            BottomLayer RES_C_0402                                          13.1250      8.7500       180      Resistor         
+R203       Resistor                                            BottomLayer RES_C_0402                                          6.3110       14.4200      90       Resistor         
+R205       Resistor                                            BottomLayer RES_C_0402                                          6.5401       17.9329      180      Resistor         
+R109       Resistor                                            BottomLayer RES_C_0402                                          50.1100      30.9850      0        Resistor         
+J101       "Header 1x2"                                        TopLayer    HDR_M_2.54_1X2_U_TH-PIP_RA_WCON_1125-1102S0R140CR01 10.0168      34.8000      270      ""               
+J102       "Header 1x2"                                        TopLayer    HDR_F_2.54_1x2_TH-PIP_RA_WCON_2185-102RSNCYNR1      50.2000      15.0000      270      ""               
+J201       "Header 1x3"                                        TopLayer    HDR_M_2.54_1X2_U_TH-PIP_RA_WCON_1125-1103S0R140CR01 10.0168      27.1000      270      ""               
+SW100      "Switch 4 Pin"                                      TopLayer    SW_TACT_SMD_DW_TS604VM1-035CR-R                     30.0001      43.8090      0        Switch           
+LABEL1     08-10015                                            BottomLayer 08-10015                                            -453.6700    -415.5700    180      ""               
+R100       Resistor                                            BottomLayer RES_C_0402                                          52.9129      58.7002      90       Resistor         
+R101       Resistor                                            BottomLayer RES_C_0402                                          52.9056      53.5875      90       Resistor         

@@ -287,23 +287,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DLVVSRZU
 
 [Document15]
-DocumentPath=..\02_SCHEMATIC\WiFI_ESP32.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ABWOQPLM
-
-[Document16]
 DocumentPath=..\02_SCHEMATIC\MAIN_CONTROLLER.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGIYBGCT
 
-[Document17]
+[Document16]
 DocumentPath=..\02_SCHEMATIC\uSD_CARD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\02_SCHEMATIC\3V3_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=8000

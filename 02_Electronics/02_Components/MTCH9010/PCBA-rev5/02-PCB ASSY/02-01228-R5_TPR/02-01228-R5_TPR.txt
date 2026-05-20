@@ -1,0 +1,54 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
+VCC_SYSTEM  J100-7        9.8002mm     58.97mm  Bottom          1.02mm  Through hole
+GND         J100-6        9.8002mm     56.43mm  Bottom          1.02mm  Through hole
+NetJ100_5   J100-5        9.8002mm     53.89mm  Bottom          1.02mm  Through hole
+NetJ100_1   J100-1        9.8002mm     43.73mm  Bottom          1.02mm  Through hole
+NetJ100_2   J100-2        9.8002mm     46.27mm  Bottom          1.02mm  Through hole
+NetJ100_4   J100-4        9.8002mm     51.35mm  Bottom          1.02mm  Through hole
+NetJ100_3   J100-3        9.8002mm     48.81mm  Bottom          1.02mm  Through hole
+GND         J200-2        6.0818mm    8.1105mm  Bottom           0.6mm  Through hole
+VCC_SYSTEM  J201-2       10.0168mm      27.1mm  Bottom          1.02mm  Through hole
+VCC_P3V3    J201-1       10.0168mm     29.64mm  Bottom          1.02mm  Through hole
+VCC_P5V0    J201-3       10.0168mm     24.56mm  Bottom          1.02mm  Through hole
+VCC_MTCH9010J101-1       10.0168mm     36.07mm  Bottom          1.02mm  Through hole
+WAKE-UP     Free-5       39.7602mm   33.6666mm  Bottom             0mm  Surface mount
+RESET       Free-5       31.7964mm    29.883mm  Bottom             0mm  Surface mount
+NetJ105_1   J105-1          32.5mm   10.9535mm  Bottom             0mm  Surface mount
+NetR201_2   Free-5       13.3403mm    6.9045mm  Bottom             0mm  Surface mount
+NetR208_2   Free-5       26.5844mm       5.7mm  Bottom             0mm  Surface mount
+NetR208_1   Free-5       25.0038mm     3.425mm  Bottom             0mm  Surface mount
+NetR114_2   Free-5       36.7118mm    61.952mm  Bottom             0mm  Surface mount
+\ECFG_ENABLEFree-5       36.7118mm   58.3619mm  Bottom             0mm  Surface mount
+NetD101_2   D101-2       54.6657mm   53.7875mm  Bottom             0mm  Surface mount
+NetD100_2   D100-2        54.673mm        59mm  Bottom             0mm  Surface mount
+NetQ101_3   Free-5       52.3235mm   51.6875mm  Bottom             0mm  Surface mount
+NetQ100_3   Free-5       52.3482mm   56.8195mm  Bottom             0mm  Surface mount
+THRESHOLD   Free-5         50.71mm   32.9547mm  Bottom             0mm  Surface mount
+VBUS_DELAYEDFree-5         0.655mm      13.2mm  Bottom             0mm  Surface mount
+SLEEP_CONFIGFree-5       42.2518mm   11.1335mm  Bottom             0mm  Surface mount
+NetTP201_1  TP201-1         9.03mm       8.1mm  Bottom             0mm  Surface mount
+BRIDGE_TX   Free-5       18.2798mm      9.87mm  Bottom             0mm  Surface mount
+BRIDGE_RX   Free-5       18.2798mm   11.5128mm  Bottom             0mm  Surface mount
+NetR105_2   Free-5       48.1503mm    61.952mm  Bottom             0mm  Surface mount
+NetR116_2   Free-5       25.2743mm    61.952mm  Bottom             0mm  Surface mount
+NetR122_2   Free-5       13.8368mm    61.952mm  Bottom             0mm  Surface mount
+OPERATION_MODEFree-5       48.1503mm   58.3619mm  Bottom             0mm  Surface mount
+\SYSTEM_LOCKFree-5       25.2743mm   58.3619mm  Bottom             0mm  Surface mount
+\OUTPUT_ENABLEFree-5       13.8368mm   58.3619mm  Bottom             0mm  Surface mount
+NetTP200_1  TP200-1         10.3mm       8.1mm  Bottom             0mm  Surface mount
+NetTP202_1  TP202-1         14.8mm     13.97mm  Bottom             0mm  Surface mount
+NetTP203_1  TP203-1         14.8mm   12.6116mm  Bottom             0mm  Surface mount
+NetTP204_1  TP204-1        11.57mm       8.1mm  Bottom             0mm  Surface mount
+HEARTBEAT   Via          50.6022mm   51.6275mm  Bottom          0.25mm  Through hole
+DETECT      Via          50.5911mm   56.7595mm  Bottom          0.25mm  Through hole
+NetR110_2   Via          30.0095mm   32.4896mm  Bottom          0.25mm  Through hole
+\RESET      Via          47.1547mm      28.8mm  Bottom          0.25mm  Through hole
+NetD200_2   Via          15.0153mm      8.78mm  Bottom          0.25mm  Through hole
+VCC_BRIDGE  Via           13.632mm    2.3184mm  Bottom          0.25mm  Through hole
+MTCH9010_TX Via          42.9241mm    33.705mm  Bottom          0.25mm  Through hole
+MTCH9010_RX Via           42.375mm   32.5543mm  Bottom          0.25mm  Through hole
+NetR108_2   Via             50.6mm   27.4875mm  Bottom          0.25mm  Through hole
+NetD201_2   Via           9.6418mm   17.7704mm  Bottom          0.25mm  Through hole
+NetJ200_B5  Via           7.8815mm    10.645mm  Bottom          0.25mm  Through hole
+NetJ200_A5  Via           7.8815mm    13.925mm  Bottom          0.25mm  Through hole
+VBUS        Via              4.3mm        10mm  Bottom          0.25mm  Through hole

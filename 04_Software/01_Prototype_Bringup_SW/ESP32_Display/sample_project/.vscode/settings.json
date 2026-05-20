@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM4",
+  "idf.currentSetup": "C:\\Users\\User\\esp\\esp-idf",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  }
+}

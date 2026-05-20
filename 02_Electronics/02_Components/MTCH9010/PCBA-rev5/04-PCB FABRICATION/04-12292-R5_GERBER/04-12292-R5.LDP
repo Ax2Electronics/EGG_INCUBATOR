@@ -1,0 +1,3 @@
+\MTCH9010_Evaluation_Kit.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=04-12292-r5-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=04-12292-r5-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

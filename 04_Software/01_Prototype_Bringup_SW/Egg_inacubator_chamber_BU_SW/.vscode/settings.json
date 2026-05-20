@@ -1,4 +1,6 @@
 {
     "idf.pythonInstallPath": "C:\\Users\\User\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
-    "idf.portWin": "COM3"
+    "idf.portWin": "COM3",
+    "idf.currentSetup": "C:\\Users\\User\\esp\\esp-idf",
+    "idf.monitorPort": "COM4"
 }
