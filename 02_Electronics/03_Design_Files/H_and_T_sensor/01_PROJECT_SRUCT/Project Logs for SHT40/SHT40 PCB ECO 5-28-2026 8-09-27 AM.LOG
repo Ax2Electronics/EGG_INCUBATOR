@@ -1,0 +1,18 @@
+Added Component: Designator=LED1(DIOC1608X04N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/ams-osram-usa-inc/LG-Q396-PS-35/5249855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "Q65111A3964"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=3V3_VOUT Pin=R1-2
+Change Net Name : Old Net Name=3V3_VOUT New Net Name=VCC-3V3
+Change Net Name : Old Net Name=5V_VIN New Net Name=VCC-5V
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=SHT40 Member=Component LED1 GREEN LED
+Added Member To Class: ClassName=SHT40 Member=Component R1 1Kohm

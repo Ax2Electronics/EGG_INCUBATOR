@@ -1,0 +1,66 @@
+Added Component: Designator=C1(CAP_0805)
+Add component (AddParameter): Name = "capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C475K3PAC7800/1950665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "399-C0805C475K3PACTUCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C1779"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "C0805C475K3PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0603)
+Add component (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/06033C104K4T2A/8019250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "478-KAM15AR71E104KTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C1590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "KAM15AR71E104KT"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SHT4X)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/sensirion-ag/SHT40-AD1F-R2/17180863?s=N4IgTCBcDaIMoAkAqAWADAWgIIBECMAYhgEoQC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Sensirion/SHT40-AD1F-R2?qs=rQFj71Wb1eVPr6MxV5k7AQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "1649-SHT40-AD1F-R2CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C7461846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "SHT40-AD1F-R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "403-SHT40-AD1F-R2"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JST_S4B-XH-SM4-TB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S4B-XH-SM4-TB/1651064"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/JST-Commercial/S4B-XH-SM4-TBLFSN?qs=QpmGXVUTftFIPbbIXV0K6A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "455-2262-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C161861"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "S4B-XH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "306-S4BXHSM4TBLFSN"; VariantName = "[No Variations]"
+Added Component: Designator=RPU1(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1002FP500/1850440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "MCT0603-10.0K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "MCT06030C1002FP500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=RPU2(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1002FP500/1850440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "MCT0603-10.0K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "MCT06030C1002FP500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-3
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Pin To Net: NetName=NetC1_2 Pin=RPU1-2
+Added Pin To Net: NetName=NetC1_2 Pin=RPU2-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=J1-3
+Added Pin To Net: NetName=NetIC1_1 Pin=RPU1-1
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=J1-4
+Added Pin To Net: NetName=NetIC1_2 Pin=RPU2-1
+Added Net: Name=NetIC1_2
+Added Class: Name=SHT40
+Added Room: Name=SHT40

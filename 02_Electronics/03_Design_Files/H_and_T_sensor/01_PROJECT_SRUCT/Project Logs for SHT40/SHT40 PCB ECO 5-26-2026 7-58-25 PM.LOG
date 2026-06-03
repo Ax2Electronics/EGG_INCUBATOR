@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=J1-1
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC2
+Added Component: Designator=C1(CAP_0805)
+Add component (AddParameter): Name = "capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C475K3PAC7800/1950665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "399-C0805C475K3PACTUCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C1779"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "C0805C475K3PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT23_5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/TLV75533PDBVR/9356541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Texas-Instruments/TLV75533PDBVR?qs=55YtniHzbhAKEwqeO2xJXQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "296-50411-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C404027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "TLV75533PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV75533PDBVR"; VariantName = "[No Variations]"
+Added Component: Designator=MH1(HOLE-3mm)
+Added Component: Designator=MH2(HOLE-3mm)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-5
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=NetIC2_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-1
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-3
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=SHT40 Member=Component C3 100nF
+Added Member To Class: ClassName=SHT40 Member=Component IC2 SHT40-AD1F-R2
+Added Member To Class: ClassName=SHT40 Member=Component MH1 Mounting Hole
+Added Member To Class: ClassName=SHT40 Member=Component MH2 Mounting Hole
+Added Room: Name=SHT40

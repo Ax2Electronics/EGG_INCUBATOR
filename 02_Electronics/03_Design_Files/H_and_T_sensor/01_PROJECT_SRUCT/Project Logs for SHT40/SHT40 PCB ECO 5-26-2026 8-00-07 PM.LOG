@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetC1_2 New Net Name=5V_VIN
+Change Net Name : Old Net Name=NetC2_2 New Net Name=3V3_VOUT
+Change Net Name : Old Net Name=NetIC2_1 New Net Name=SDA
+Change Net Name : Old Net Name=NetIC2_2 New Net Name=SCL
+Added Member To Class: ClassName=SHT40 Member=Component C1 4.7uF
+Added Member To Class: ClassName=SHT40 Member=Component C2 4.7uF
+Added Member To Class: ClassName=SHT40 Member=Component IC1 TLV75533PDBVR
+Added Room: Name=SHT40

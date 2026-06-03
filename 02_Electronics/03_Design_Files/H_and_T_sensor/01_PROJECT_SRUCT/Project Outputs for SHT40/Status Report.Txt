@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [SHT40.PrjPcb]
+   Generated File[SHT40_Copper_Signal_Top.gbr]
+   Generated File[SHT40_Copper_Signal_Bot.gbr]
+   Generated File[SHT40_Pads_Bot.gbr]
+   Generated File[SHT40_Pads_Top.gbr]
+   Generated File[SHT40_Legend_Top.gbr]
+   Generated File[SHT40_Legend_Bot.gbr]
+   Generated File[SHT40_Soldermask_Top.gbr]
+   Generated File[SHT40_Soldermask_Bot.gbr]
+   Generated File[SHT40_Paste_Top.gbr]
+   Generated File[SHT40_Paste_Bot.gbr]
+   Generated File[SHT40_Keep-out.gbr]
+   Generated File[SHT40_Mechanical_1.gbr]
+   Generated File[SHT40_Mechanical_13.gbr]
+   Generated File[SHT40_Mechanical_15.gbr]
+   Generated File[SHT40_Profile.gbr]
+   Generated File[SHT40_NPTH_Drill.gbr]
+   Generated File[SHT40_PTH_Drill.gbr]
+   Generated File[SHT40_Drawing_1.gbr]
+   Generated File[SHT40_Drillmap_1.gbr]
+   Generated File[SHT40.EXTREP]
+   Generated File[SHT40.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 11:00:00 PM On 5/29/2026
